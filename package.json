@@ -2,7 +2,10 @@
   "name": "rails5-react-docker-redux-boilerplate",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "^3.5.5"
+    "@rails/webpacker": "^3.5.5",
+    "react": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
   },
   "devDependencies": {
     "webpack-dev-server": "^3.1.5"
